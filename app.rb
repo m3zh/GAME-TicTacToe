@@ -1,3 +1,6 @@
+require 'bundler'
+Bundler.require
+
 $:.unshift File.expand_path("./../lib",__FILE__)
 
 require 'app/Player'
@@ -17,7 +20,7 @@ while true
   p2 = Player.new(p2_name)
 
   game = Game.new(p1,p2)
-#game.x_or_o?
+  #game.x_or_o? ----> to be revised
 
   board = Board.new
   board.show_state
