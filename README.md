@@ -1,6 +1,6 @@
 # Project name
 
-This is a new project called Tic-Tac-Toe
+This is a new project called Tic-Tac-Toe, wirtten in Ruby
 
 ## Components
 
