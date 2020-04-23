@@ -4,8 +4,8 @@ This is a new project called Tic-Tac-Toe
 
 ## Components
 
-A Player class, a Game class and a Board class --- which are self explanatory
-An Application class that run the game as a loop until the user exits the program
+<p>A Player class, a Game class and a Board class --- which are self explanatory<br>
+An Application class that run the game as a loop until the user exits the program</p>
 
 ## Others
 
