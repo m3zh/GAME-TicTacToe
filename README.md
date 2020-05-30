@@ -1,12 +1,4 @@
-# Project name
+# Tic Tac Toe :video_game:
 
-This is a new project called Tic-Tac-Toe, written in Ruby
-
-## Components
-
-<p>A Player class, a Game class and a Board class --- which are self explanatory<br>
-An Application class that run the game as a loop until the user exits the program</p>
-
-## Others
-
-Gem used in the project: _colorize_
+Play in your terminal <br>
+A game not for the faint-hearted :heavy_multiplication_x: :skull: :large_blue_circle:
